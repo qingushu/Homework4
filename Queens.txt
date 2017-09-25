@@ -1,0 +1,109 @@
+tests-MBP:homework4 gushuqin$ java Queens
+Enter an integer for N Queen problem
+5
+q * * * * 
+* * q * * 
+* * * * q 
+* q * * * 
+* * * q * 
+
+q * * * * 
+* * * q * 
+* q * * * 
+* * * * q 
+* * q * * 
+
+* q * * * 
+* * * q * 
+q * * * * 
+* * q * * 
+* * * * q 
+
+* q * * * 
+* * * * q 
+* * q * * 
+q * * * * 
+* * * q * 
+
+* * q * * 
+q * * * * 
+* * * q * 
+* q * * * 
+* * * * q 
+
+* * q * * 
+* * * * q 
+* q * * * 
+* * * q * 
+q * * * * 
+
+* * * q * 
+q * * * * 
+* * q * * 
+* * * * q 
+* q * * * 
+
+* * * q * 
+* q * * * 
+* * * * q 
+* * q * * 
+q * * * * 
+
+* * * * q 
+* q * * * 
+* * * q * 
+q * * * * 
+* * q * * 
+
+* * * * q 
+* * q * * 
+q * * * * 
+* * * q * 
+* q * * * 
+
+tests-MBP:homework4 gushuqin$ java Queens
+Enter an integer for N Queen problem
+4
+* q * * 
+* * * q 
+q * * * 
+* * q * 
+
+* * q * 
+q * * * 
+* * * q 
+* q * * 
+
+tests-MBP:homework4 gushuqin$ java Queens
+Enter an integer for N Queen problem
+6
+* q * * * * 
+* * * q * * 
+* * * * * q 
+q * * * * * 
+* * q * * * 
+* * * * q * 
+
+* * q * * * 
+* * * * * q 
+* q * * * * 
+* * * * q * 
+q * * * * * 
+* * * q * * 
+
+* * * q * * 
+q * * * * * 
+* * * * q * 
+* q * * * * 
+* * * * * q 
+* * q * * * 
+
+* * * * q * 
+* * q * * * 
+q * * * * * 
+* * * * * q 
+* * * q * * 
+* q * * * * 
+
+tests-MBP:homework4 gushuqin$ 
+
